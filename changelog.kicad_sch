@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid d51c6ab2-9988-4ad4-bcde-2ad76d64aeb0)
+
+  (paper "A4")
+
+  (title_block
+    (title "Buddy")
+    (date "2019-10-24")
+    (rev "v1.0.0")
+    (company "PRUSA Research s.r.o.")
+    (comment 1 "http://creativecommons.org/licenses/by-sa/4.0/")
+    (comment 2 "Licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)")
+  )
+
+  (lib_symbols
+  )
+
+)
